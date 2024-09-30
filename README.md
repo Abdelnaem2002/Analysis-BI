@@ -53,6 +53,5 @@ The project consists of a scalable, data pipeline that processes, and stores dat
 ![sql](https://github.com/user-attachments/assets/614e0f9a-0099-4917-a47a-e4589553dc94)
 ![Data_Model_Sql](https://github.com/user-attachments/assets/34dd2351-37bb-4cb4-9b6b-68adfb05305e)
 
-
-
+![vis](https://github.com/user-attachments/assets/2acdb0d8-d337-4a67-a190-72eb65de7dcd)
 
