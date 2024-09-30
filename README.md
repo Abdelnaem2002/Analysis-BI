@@ -1,5 +1,48 @@
-Sales_Analysis.BI
-[Outcome Presentation1.pdf](https://github.com/user-attachments/files/17180214/Outcome.Presentation1.pdf)
+# Sales-Analysis-BI-End-to-End-Pipeline
+I would  like to share my journey through a challenging task.The task was to analyze and transform retail invoice  data collected monthly from February to May.
+. It demonstrates real-time data ingestion, processing, storage, and live analytics diffrent tools. The project utilizes a combination of Excel, SSIS, Power BI, SQL Server and Power BI.
+
+
+## Table of Contents
+- [Architecture Overview](#architecture-overview)
+- [Technologies Used](#technologies-used)
+- [Prerequisites](#Prerequisites-workflow)
+- [Usage](#usage)
+## Architecture Overview
+The project consists of a scalable, data pipeline that processes, and stores data using different services and technologies.
+
+
+### Key Components:
+1. **Data Analysis**: Analyze data using Excel And Power Pivot.
+2. **Data Pipline(SSIS)**: Managed by SSIS To move And preprocessing Into Sql Server.
+3. **Data Processing (Sql Server )**:
+    - First Step  Cleaning Data And Drop Unwanted Columns.
+    - Second Step Buils Star Schema For Dimensions Tables And Fact and stores the results in SQL Servr.
+    - Third Step Move Data From Sql Server To Power Bi .
+4. **Data Visualization**: Processed data is displayed on Power BI for reporting.
+## Technologies Used
+
+- **Excel**: Data processing and Analyze Data.
+- **SSIS**: Move Data Pipline.
+- **SQL Server**: Stores processed data and results.
+- **Power BI**: Real-time dashboards for visualizing processed data.
+
+### Prerequisites
+
+- **Microsoft Excel**.
+- **SSISe**.
+- **SQL Server**.
+- **Power BI**: Set up Power BI for visualizing the data.
+
+## Usage
+- Excel: Ensure Data is Good And Make Some Analysis.
+- SSIS: Use SSIS to manage and Move Data From Excel To SSIS.
+- Sql Server: SQL will process the data To Make Star Schema And Dim ,Fact.
+- Visualize Data in Power BI: Open Power BI and ensure real-time data is visualized from SQL Server.
+
+
+
+
 ![Excel_Analysis](https://github.com/user-attachments/assets/55ecc73b-31d5-47c4-b5dd-fb352069b410)
 ![data model](https://github.com/user-attachments/assets/4574e40f-b49b-4ae7-9c97-61ffa671c577)
 ![sql](https://github.com/user-attachments/assets/614e0f9a-0099-4917-a47a-e4589553dc94)
