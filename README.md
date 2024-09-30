@@ -1,6 +1,6 @@
 # Sales-Analysis-BI-End-to-End-Pipeline
-I would  like to share my journey through a challenging task.The task was to analyze and transform retail invoice  data collected monthly from February to May.
-. It demonstrates real-time data ingestion, processing, storage, and live analytics diffrent tools. The project utilizes a combination of Excel, SSIS, Power BI, SQL Server and Power BI.
+I want to share my journey through a challenging task. The task was to analyze and transform retail invoice  data collected monthly from February to May.
+. It demonstrates real-time data ingestion, processing, storage, and live analytics of different tools. The project utilizes a combination of Excel, SSIS, Power BI, SQL Server, and Power BI.
 
 
 ## Table of Contents
@@ -14,15 +14,15 @@ The project consists of a scalable, data pipeline that processes, and stores dat
 
 ### Key Components:
 1. **Data Analysis**: Analyze data using Excel And Power Pivot.
-2. **Data Pipline(SSIS)**: Managed by SSIS To move And preprocessing Into Sql Server.
-3. **Data Processing (Sql Server )**:
+2. **Data Pipeline (SSIS)**: Managed by SSIS To move And preprocess Into SQL Server.
+3. **Data Processing (SQL Server )**:
     - First Step  Cleaning Data And Drop Unwanted Columns.
-    - Second Step Buils Star Schema For Dimensions Tables And Fact and stores the results in SQL Servr.
-    - Third Step Move Data From Sql Server To Power Bi .
+    - The second step builds Star Schema For Dimensions Tables And Fact and stores the results in SQL Server.
+    - Third Step Move Data From the Sql Server To Power Bi.
 4. **Data Visualization**: Processed data is displayed on Power BI for reporting.
 ## Technologies Used
 
-- **Excel**: Data processing and Analyze Data.
+- **Excel**: Data processing and analyzing data.
 - **SSIS**: Move Data Pipline.
 - **SQL Server**: Stores processed data and results.
 - **Power BI**: Real-time dashboards for visualizing processed data.
@@ -32,12 +32,12 @@ The project consists of a scalable, data pipeline that processes, and stores dat
 - **Microsoft Excel**.
 - **SSISe**.
 - **SQL Server**.
-- **Power BI**: Set up Power BI for visualizing the data.
+- **Power BI**: Set up Power BI to visualize the data.
 
 ## Usage
 - Excel: Ensure Data is Good And Make Some Analysis.
 - SSIS: Use SSIS to manage and Move Data From Excel To SSIS.
-- Sql Server: SQL will process the data To Make Star Schema And Dim ,Fact.
+- SQL Server: SQL will process the data To Make Star Schema And Dim, Fact.
 - Visualize Data in Power BI: Open Power BI and ensure real-time data is visualized from SQL Server.
 
 
