@@ -12,6 +12,11 @@ I want to share my journey through a challenging task. The task was to analyze a
 The project consists of a scalable, data pipeline that processes, and stores data using different services and technologies.
 
 
+
+![End To End drawio](https://github.com/user-attachments/assets/68a2ed4b-cefd-43f2-bd07-64b5699eb6ed)
+
+
+
 ### Key Components:
 1. **Data Analysis**: Analyze data using Excel And Power Pivot.
 2. **Data Pipeline (SSIS)**: Managed by SSIS To move And preprocess Into SQL Server.
