@@ -11,9 +11,9 @@ I want to share my journey through a challenging task. The task was to analyze a
 ## Architecture Overview
 The project consists of a scalable, data pipeline that processes, and stores data using different services and technologies.
 
+![DBT drawio(1)](https://github.com/user-attachments/assets/b567df8d-fab4-4bcc-bcef-a4f903242939)
 
 
-![End To End drawio](https://github.com/user-attachments/assets/68a2ed4b-cefd-43f2-bd07-64b5699eb6ed)
 
 
 
